@@ -66,13 +66,13 @@
     git=http://github.com/doctrine/data-fixtures.git
 
 [DoctrineFixturesBundle]
-    git=http://github.com/symfony/DoctrineFixturesBundle.git
-    target=/bundles/Symfony/Bundle/DoctrineFixturesBundle
+    git=http://github.com/doctrine/DoctrineFixturesBundle.git
+    target=bundles/Doctrine/Bundle/FixturesBundle
 
 [doctrine-migrations]
     git=http://github.com/doctrine/migrations.git
 
 [DoctrineMigrationsBundle]
-    git=http://github.com/symfony/DoctrineMigrationsBundle.git
+    git=http://github.com/Doctrine/DoctrineMigrationsBundle.git
     target=/bundles/Symfony/Bundle/DoctrineMigrationsBundle
 
